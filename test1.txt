@@ -1,1 +1,2 @@
-prueba 1 para la practica con git
+prueba 2 para la practica con git
+donde hago otro  comentario y un cambio
