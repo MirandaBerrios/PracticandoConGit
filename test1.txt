@@ -1,2 +1,4 @@
-prueba 2 para la practica con git
+prueba 3 para la practica con git
 donde hago otro  comentario y un cambio
+
+esta linea mostrarará un tercer cambio
